@@ -4,6 +4,10 @@ ZoomGPT:🎙️Ask me anything
 
 Talk to your Zoom recorded meeting transcripts.
 
+## Demo
+
+![Demo](demo.gif)
+
 ## Features
 
 - Upload transcript (VTT format) and ask questions about the meeting.
